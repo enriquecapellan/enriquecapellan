@@ -7,4 +7,4 @@
 	<a href="https://www.linkedin.com/in/enriquecapellan"><img src="https://img.shields.io/badge/-enriquecapellan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enriquecapellan/" alt="LinkedIn"></a>
 </p>
 
-<p align="center"> <img src="https://github-readme-stats-seven-gamma-33.vercel.app/api?username=enriquecapellan&show_icons=true&theme=dark" alt="Enrique Capellán" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api??username=enriquecapellan&show_icons=true&theme=dark" alt="Enrique Capellán" /> </p>
